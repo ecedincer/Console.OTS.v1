@@ -29,7 +29,6 @@ namespace ÖTS.v1
                 new Users("Enes","Ünsür","enes.u","123"),
                 new Users("Hümeyra Betül","Akgül","humeyrab.a","123"),
                 new Users("Hayri","Öztürk","hayri.o","123"),
-                new Users("Burak","İnce","burak.i","123"),
                 new Users("Adem","Şimşek","adem.s","123"),
                 new Users("Kerem","Bilgiç","kerem.b","123"),
                 new Users("Demet","Bayrak","demet.b","123"),
