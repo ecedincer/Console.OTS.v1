@@ -1,0 +1,8 @@
+C:\OneDrive\wsUCC01\Console.Apps\ÖTS.v1\ÖTS.v1\bin\Debug\ÖTS.v1.exe.config
+C:\OneDrive\wsUCC01\Console.Apps\ÖTS.v1\ÖTS.v1\bin\Debug\ÖTS.v1.exe
+C:\OneDrive\wsUCC01\Console.Apps\ÖTS.v1\ÖTS.v1\bin\Debug\ÖTS.v1.pdb
+C:\OneDrive\wsUCC01\Console.Apps\ÖTS.v1\ÖTS.v1\obj\Debug\ÖTS.v1.csproj.AssemblyReference.cache
+C:\OneDrive\wsUCC01\Console.Apps\ÖTS.v1\ÖTS.v1\obj\Debug\ÖTS.v1.csproj.SuggestedBindingRedirects.cache
+C:\OneDrive\wsUCC01\Console.Apps\ÖTS.v1\ÖTS.v1\obj\Debug\ÖTS.v1.csproj.CoreCompileInputs.cache
+C:\OneDrive\wsUCC01\Console.Apps\ÖTS.v1\ÖTS.v1\obj\Debug\ÖTS.v1.exe
+C:\OneDrive\wsUCC01\Console.Apps\ÖTS.v1\ÖTS.v1\obj\Debug\ÖTS.v1.pdb
